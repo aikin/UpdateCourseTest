@@ -9,7 +9,7 @@
     "order": 0,
     "ico": "images/angularjs_logo.png",
     "title_ico": "images/AngularJS.png",
-    "path":{
+    "relevance":{
     	"type":"path",
     	"column":"_id",
     	"index":{
