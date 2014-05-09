@@ -24,7 +24,7 @@
     ],
     "spec": {
         "name": "index.html",
-        "path": "/"
+        "path": "/spec/"
     },
     "order": 0
 }
