@@ -7,7 +7,8 @@
     "tips": "<li>请仿照routes.js第28-30行代码</li> <li>将8-10行的代码</li> <li>修改成\"/help_ordering_page.html\"页面正确的资源名称</li>",
     "answer": "<li>将8-10行的代码</li> <li>修改成</li><li>}).when(\"/help_ordering_page\", {</li><li>templateUrl: \"pages/help_ordering_page.html\",</li><li>controller: HelpOrderingController</li>",
     "point": 200,
-    "dir": "/angular part-one template",
+    "project_dir": "/angular part-one template",
+    "specs_dir":"/specs",
     "files": [
         {
             "name": "routes.js",
@@ -24,7 +25,7 @@
     ],
     "spec": {
         "name": "index.html",
-        "path": "/spec/"
+        "path": "/angular part-one template/"
     },
     "order": 0
 }
